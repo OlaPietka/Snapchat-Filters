@@ -1,0 +1,33 @@
+# Snapchat Filter
+Basic desktop application to play around with Snapchat-alike filters like mask, sunglasses and santa hat automatic in-face superposition in real time.
+You can use one or many filter at the time.
+
+### Currently following filters are available:
+* Santa hat
+* Sunglasses
+* Mask 
+
+<p align="center">
+  <img width="420" height="300" src="https://i.imgur.com/iKEqapx.png">
+  <img width="420" height="300" src="https://i.imgur.com/0Z2xSyK.png">
+  <img width="420" height="300" src="https://i.imgur.com/Br3VM9P.png">
+  <img width="420" height="300" src="https://i.imgur.com/dIBNTDx.png">
+</p>
+
+Filters to be done
+* Mustage
+* Hat
+* Rainbow spilling out from mouth (after opening it)
+
+## To-do:
+* Create custom images for filters in Adobe PS
+* Add new filters
+
+## Usage
+Example:
+```
+python webcam.py -f sunglasses mask santahat -ce eye.xml -cf face.xml
+```
+-f >> filters to use (list)
+-ce >> haar cascade for eye detection (optional)
+-cf >> haar cascade for face detection (optional)
