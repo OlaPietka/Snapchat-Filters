@@ -8,13 +8,13 @@ You can use one or many filter at the time.
 * Mask 
 
 <p align="center">
-  <img width="420" height="300" src="https://i.imgur.com/iKEqapx.png">
-  <img width="420" height="300" src="https://i.imgur.com/0Z2xSyK.png">
-  <img width="420" height="300" src="https://i.imgur.com/Br3VM9P.png">
-  <img width="420" height="300" src="https://i.imgur.com/dIBNTDx.png">
+  <img width="420" height="250" src="https://i.imgur.com/iKEqapx.png">
+  <img width="420" height="250" src="https://i.imgur.com/0Z2xSyK.png">
+  <img width="420" height="250" src="https://i.imgur.com/Br3VM9P.png">
+  <img width="420" height="250" src="https://i.imgur.com/dIBNTDx.png">
 </p>
 
-Filters to be done
+#### Filters to be done
 * Mustage
 * Hat
 * Rainbow spilling out from mouth (after opening it)
@@ -26,8 +26,5 @@ Filters to be done
 ## Usage
 Example:
 ```
-python webcam.py -f sunglasses mask santahat -ce eye.xml -cf face.xml
+python webcam.py -f sunglasses mask santahat
 ```
--f >> filters to use (list)
--ce >> haar cascade for eye detection (optional)
--cf >> haar cascade for face detection (optional)
