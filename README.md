@@ -1,4 +1,4 @@
-# Snapchat Filter
+# Snapchat Filters
 Basic desktop application to play around with Snapchat-alike filters like mask, sunglasses and santa hat automatic in-face superposition in real time.
 You can use one or many filter at the time.
 
