@@ -11,7 +11,7 @@ You can use one or many filter at the time.
   <img width="420" height="250" src="https://i.imgur.com/iKEqapx.png">
   <img width="420" height="250" src="https://i.imgur.com/0Z2xSyK.png">
   <img width="420" height="250" src="https://i.imgur.com/Br3VM9P.png">
-  <img width="420" height="250" src="https://i.imgur.com/dIBNTDx.png">
+  <img width="420" height="250" src="https://i.imgur.com/bcMhy6o.png">
 </p>
 
 #### Filters to be done
