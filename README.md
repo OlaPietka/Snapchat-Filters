@@ -19,6 +19,12 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
   <img width="420" height="250" src="https://i.imgur.com/Br3VM9P.png">
 </p>
 
+## Bounderies
+You can also view bounderies of detected areas (faces and eyes)
+<p align="center">
+  <img width="420" height="250" src="https://i.imgur.com/ipMHmKi.png">
+</p>
+
 #### Filters to be done
 * Rainbow spilling out from mouth (after opening it)
 
@@ -27,7 +33,15 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
 * Add new filters
 
 ## Usage
-Example:
+Example with single filter:
 ```
-python webcam.py -f sunglasses mask santahat
+python webcam.py -f sunglasses
+```
+Example with multiple filters:
+```
+python webcam.py -f sunglasses santahat santabeard
+```
+Example with detected boundries:
+```
+python webcam.py -f santahat -b
 ```
