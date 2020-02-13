@@ -15,7 +15,7 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
   <img width="420" height="245" src="https://i.imgur.com/iRJsu0g.png">
   <img width="420" height="245" src="https://i.imgur.com/gd4ALDU.png">
   <img width="420" height="245" src="https://i.imgur.com/0Z2xSyK.png">
-  <img width="420" height="245" src="https://i.imgur.com/iKEqapx.png">
+  <img width="420" height="245" src="https://i.imgur.com/qWn6QO9.png">
   <img width="420" height="245" src="https://i.imgur.com/Br3VM9P.png">
 </p>
 
