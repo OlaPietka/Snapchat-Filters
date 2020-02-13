@@ -25,10 +25,8 @@ You can also view bounderies of detected areas (faces and eyes)
   <img width="420" height="245" src="https://i.imgur.com/ipMHmKi.png">
 </p>
 
-#### Filters to be done
-* Rainbow spilling out from mouth (after opening it)
-
 ## To-do:
+* Filter: rainbow spilling out from mouth (after opening it)
 * Create custom images for filters in Adobe PS
 * Add new filters
 
