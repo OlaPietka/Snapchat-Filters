@@ -22,6 +22,7 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
   <img width="250" height="145" src="https://i.imgur.com/Br3VM9P.png">
   <img width="250" height="145" src="https://i.imgur.com/86bLEwz.png">
   <img width="250" height="145" src="https://i.imgur.com/bNOQTIn.png">
+  <img width="250" height="145" src="https://i.imgur.com/yRDQnwy.png">
 </p>
 
 You can chose package of filters with "-p" parameter. 
@@ -38,6 +39,7 @@ You can also view bounderies of detected areas (faces and eyes)
 
 ## To-do:
 * Filter: rainbow spilling out from mouth (after opening it)
+* GIF format
 * Create custom images for filters in Adobe PS
 * Add new filters
 
