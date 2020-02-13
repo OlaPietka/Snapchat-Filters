@@ -1,11 +1,14 @@
 # Snapchat Filters
 Basic desktop application to play around with Snapchat-alike filters like mask, sunglasses and santa hat automatic in-face superposition in real time.
-You can use one or many filter at the time.
+**You can use multiple filters at once.**
 
 ### Currently following filters are available:
 * Santa hat
+* Santa beard
 * Sunglasses
 * Mask 
+* Hat
+* Mustache
 
 <p align="center">
   <img width="420" height="250" src="https://i.imgur.com/bcMhy6o.png">
@@ -17,8 +20,6 @@ You can use one or many filter at the time.
 </p>
 
 #### Filters to be done
-* Mustage
-* Hat
 * Rainbow spilling out from mouth (after opening it)
 
 ## To-do:
