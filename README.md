@@ -9,6 +9,9 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
 * Mask 
 * Hat
 * Mustache
+* Clown hair
+* Clown nose
+* Eyeballs
 
 <p align="center">
   <img width="250" height="145" src="https://i.imgur.com/bcMhy6o.png">
@@ -17,7 +20,15 @@ Basic desktop application to play around with Snapchat-alike filters like mask, 
   <img width="250" height="145" src="https://i.imgur.com/0Z2xSyK.png">
   <img width="250" height="145" src="https://i.imgur.com/qWn6QO9.png">
   <img width="250" height="145" src="https://i.imgur.com/Br3VM9P.png">
+  <img width="250" height="145" src="https://i.imgur.com/86bLEwz.png">
+  <img width="250" height="145" src="https://i.imgur.com/bNOQTIn.png">
 </p>
+
+You can chose package of filters with "-p" parameter. 
+Currently following filter packages are available:
+* Clown
+* Man
+* Santa
 
 ## Bounderies
 You can also view bounderies of detected areas (faces and eyes)
